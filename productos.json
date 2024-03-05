@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "T-Shirt",
+    "description": "T-Shirt Cartoon",
+    "price": 350,
+    "thumbnail": "url",
+    "code": "T1",
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "Gorra",
+    "description": "Popeye",
+    "price": 250,
+    "thumbnail": "url",
+    "code": "G1",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Consola",
+    "description": "PS5",
+    "price": 7500,
+    "thumbnail": "url",
+    "code": "C1",
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "title": "Smart Phone",
+    "description": "iPhone 15",
+    "price": 11500,
+    "thumbnail": "url",
+    "code": "SP1",
+    "stock": 75
+  }
+]

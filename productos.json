@@ -1,14 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "T-Shirt",
-    "description": "T-Shirt Cartoon",
-    "price": 350,
-    "thumbnail": "url",
-    "code": "T1",
-    "stock": 50
-  },
-  {
     "id": 2,
     "title": "Gorra",
     "description": "Popeye",
